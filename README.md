@@ -13,7 +13,7 @@ tengo conocimientos de programacion en lenguajes
 del lado servidor como php y jsp.
 
 Mi correo electronico de trabajo es 
-elrojo960905@gmail.com.
+lazaro.delpino@yahoo.com
 
 Me encuentro actualmente trabajando en un
 proyectos de beneficio personal, creando una 

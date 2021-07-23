@@ -13,7 +13,7 @@
  del lado servidor como php y jsp.
 
  Mi correo electronico de trabajo es 
- lazaro.delpino@yahoo.com.
+ lazaro.delpino.olivera@gmail.com.
 
  Actualmente trabajando en un proyecto de 
  beneficio personal.

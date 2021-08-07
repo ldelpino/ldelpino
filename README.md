@@ -15,7 +15,7 @@
  Mi correo electronico de trabajo es 
  lazaro.delpino.olivera@gmail.com.
 
- Actualmente trabajando en un proyecto de 
+ Actualmente estoy trabajando en un proyecto de 
  beneficio personal.
 
 

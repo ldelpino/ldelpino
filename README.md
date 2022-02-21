@@ -19,7 +19,7 @@
  Correo electronico:
  lazaro.delpino.olivera@gmail.com.
 
- Actualmente estoy trabajando en un proyecto de gestion de normas juridicas.
+ Actualmente estoy trabajando en el desarrollo de una libreria de estructuras de datos en forma de arboles.
 
 
 <!--

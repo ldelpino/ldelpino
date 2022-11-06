@@ -16,33 +16,18 @@ ur welcome ;)
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
 Hi!!! <br />
-I am <b>Lázaro del Pino</b>, mi Github profile is 'ldelpino'🕵🏼‍♂️ <br />
-I have <strong>25</strong> years old, am from <strong>Cuba</strong> <br />
+I'm <b>Lázaro del Pino</b>, my Github profile, it's ldelpino 🕵🏼‍♂️, <br />
+I have <strong>25</strong> years old, I'm from Cuba. <br />
+Study Computer Engineering at the Technological University of Havana "CUJAE", <br />
+in which I am studying for the penultimate year of the race. <br />
+<br />
+I love computing, my dream is to dedicate myself to developing software as my own business, <br />
+create my own development team and become a full-time software developer. <br />
+<br />
+I like programming, software engineering, architecture and business modeling. <br />
 I'm a guy who love develop new things 🖥️ <br />
-So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
-If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
-Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
-<br/><br/> 
-
-<!-- Bogota's weather table -->
-
-<h2 align="center"> 🇨🇴 Bogota's Weather ⛅ </h2>
-<table align="center" style="width:50%">
-    <tr style="text-align:center">
-        <th>Weather</th>
-        <th>Temperature</th>
-        <th>Sunrise</th>
-        <th>Sunset</th>
-        <th>Humidity</th>
-    </tr>
-    <tr style="text-align:center">
-        <td><b>scattered clouds</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03d.png></td>
-        <td><b>11°C</b></td>
-        <td><b>05:41 AM</b></td>
-        <td><b>05:38 PM</b></td>
-        <td><b>100%</b></td>
-    </tr>
-</table>
+So... I am more than a robot coding 🤖, I am a real human trying to learn new things and <br />
+develop incredible projects with ❤️ meeting incredible people on the way.🚀<br />
 
 ### 🧐 More About Me:
 <table style="border: none;">
@@ -50,32 +35,17 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     <td style="border: none;">
       <ul>
         <li>
-          🔭 I’m currently studying at **SENA**
+          🔭 I’m currently studying at **Computer Engineering at the Technological University of Havana "CUJAE"**
         </li>
         <li>
-          🤝 I’m looking to collaborate on Open Source Proyects
+          🤝 I’m looking to participate in open source projects
         </li>
         <li>
-          🌱 I’m currently learning Django & NestJS; 
+          🌱 I’m currently learning...
         </li>
         <li>
-          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
+          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/ldelpino?tab=repositories)
         </li>
-        <li>
-          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
-        </li>
-        <li>
-          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
-        </li>
-        <li>
-          🎷 When I am free, I like to play the Sax
-        </li>
-        <li>
-          📝 Checkout my [Page](https://www.davidsdvm.com/) 
-        </li>
-    </td>
-    <td style="border: none;">
-      <img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
     </td>
   </tr>
 </table>
@@ -85,7 +55,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
-  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
+  <code><a href="https://www.python.org/"><img alt="Java" title="Java" src="./assets/python.png" height="42"></a></code>
   <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
   <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fast-api.svg" height="42"></a></code>
   <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>

@@ -1,4 +1,4 @@
-<a href="https://github.com/ldelpino">![ldelpino profile](./assets/presentation.png)</a>
+<a href="https://github.com/ldelpino"><img alt="Image Presentation" title="Image Presentation" src="./assets/presentation.png" height="128"></a>
 
 <hr>
 
@@ -31,7 +31,7 @@ develop incredible projects with ❤️ meeting incredible people on the way.�
           🤝 I’m looking to participate in open source projects.
         </li>
         <li>
-          🌱 I’m currently learning...
+          🌱 I’m currently learning to develop GitHub Actions...
         </li>
         <li>
           👨🏻‍💻 Most of my projects are available on [Github](https://github.com/ldelpino?tab=repositories)
@@ -51,25 +51,29 @@ develop incredible projects with ❤️ meeting incredible people on the way.�
   <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
   <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a></code>
+  <code><a href="https://www.cprogramming.com/"><img alt="C" title="C" src="./assets/c.png" height="42"></a></code>
+  <code><a href="https://cplusplus.com/"><img alt="C++" title="C++" src="./assets/c++.png" height="42"></a></code>
+  <!-- Nuevos -->
+  <code><a href="https://www.swi-prolog.org/"><img alt="Prolog" title="Prolog" src="./assets/prolog.png" height="42"></a></code>
+  <code><a href="https://www.postgresql.org/"><img alt="SQL" title="SQL" src="./assets/sql.png" height="42"></a></code>
+  <code><a href="https://www.postgresql.org/"><img alt="PostgreSQL" title="PostgreSQL" src="./assets/postgreSQL.png" height="42"></a></code>
+  <code><a href="http://www.uml.org/"><img alt="UML" title="UML" src="./assets/uml.png" height="42"></a></code>
+  <code><a href="https://www.joomla.org/"><img alt="Joomla CMS" title="Joomla" src="./assets/joomla.png" height="42"></a></code>
+</p>
+<br>
+
+<h1 align="center"> Languages/Frameworks I'm know the basics: </h1>
+<p align="center">
+  <code><a href="https://assemblerinstitute.com/"><img alt="Ensamblador" title="Ensamblador" src="./assets/ensamblador.png" height="42"></a></code>
+  <code><a href="https://www.php.net/"><img alt="PHP" title="PHP" src="./assets/php.png" height="42"></a></code>
+  <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
 </p>
 <br>
 
 <h1 align="center"> Languages/Frameworks I'm learning: </h1>
 <p align="center">
-<code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
-  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
-  <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./assets/NestJS.png" height="42"></a></code>
-  <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
-  <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
-  
-  <!--
-  <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
-  <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fast-api.svg" height="42"></a></code>
-  <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
-  <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
-  <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
-  <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code>
-  -->
+  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
+  <code><a href="https://wordpress.com/es/?aff=27964"><img alt="Wordpress" title="Wordpress" src="./assets/wordpress.png" height="42"></a></code>
 </p>
 <br>
 
@@ -77,11 +81,8 @@ develop incredible projects with ❤️ meeting incredible people on the way.�
 <p align="center">
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
-  
-  <!--
-  <code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="./assets/arch.png" height="42"></a></code>
-  <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
-  -->
+  <code><a href="https://netbeans.apache.org/"><img alt="Netbeans IDE" title="Netbeans IDE" src="./assets/netbeans.png" height="42"></a></code>
+  <!--<code><a href="https://code.visualstudio.com/"><img alt="Draw UML" title="Netbeans IDE" src="./assets/vscode.png" height="42"></a></code>-->
 </p>
 <br>
 

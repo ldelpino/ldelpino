@@ -1,4 +1,4 @@
-<a href="https://github.com/ldelpino"><img alt="Image Presentation" title="Image Presentation" src="./assets/presentation.png" height="128"></a>
+<a href="https://github.com/ldelpino"><img alt="Image Presentation" title="Image Presentation" src="./assets/presentation.png" height="256"></a>
 
 <hr>
 
@@ -46,7 +46,7 @@ develop incredible projects with ❤️ meeting incredible people on the way.�
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/javascript.png" height="42"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
   <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
@@ -67,6 +67,7 @@ develop incredible projects with ❤️ meeting incredible people on the way.�
   <code><a href="https://assemblerinstitute.com/"><img alt="Ensamblador" title="Ensamblador" src="./assets/ensamblador.png" height="42"></a></code>
   <code><a href="https://www.php.net/"><img alt="PHP" title="PHP" src="./assets/php.png" height="42"></a></code>
   <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
+  <code><a href="https://www.r-project.org/"><img alt="R" title="R" src="./assets/Rlogo.png" height="42"></a></code>
 </p>
 <br>
 
@@ -82,7 +83,7 @@ develop incredible projects with ❤️ meeting incredible people on the way.�
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
   <code><a href="https://netbeans.apache.org/"><img alt="Netbeans IDE" title="Netbeans IDE" src="./assets/netbeans.png" height="42"></a></code>
-  <!--<code><a href="https://code.visualstudio.com/"><img alt="Draw UML" title="Netbeans IDE" src="./assets/vscode.png" height="42"></a></code>-->
+  <!--<code><a href="https://code.visualstudio.com/"><img alt="Draw UML" UML" src="./assets/vscode.png" height="42"></a></code>-->
 </p>
 <br>
 
@@ -106,13 +107,13 @@ develop incredible projects with ❤️ meeting incredible people on the way.�
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/ldelpino/Flowy"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=ldelpino&repo=Flowy&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/ldelpino/MascotasOlarte"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=ldelpino&repo=MascotasOlarte&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <p>[![DateUtils](https://github-readme-stats.vercel.app/api/pin/?username=ldelpino&repo=DateUtils)](https://github.com/anuraghazra/github-readme-stats)</p>
+    <p>[![BuilderLibrary](https://github-readme-stats.vercel.app/api/pin/?username=ldelpino&repo=BuilderLibrary)](https://github.com/anuraghazra/github-readme-stats)</p>
   </p>
   <p align="center">&#8192;</p>
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/ldelpino/Dev_Exercises"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=ldelpino&repo=Dev_Exercises&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/ldelpino/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=ldelpino&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
+    <p>[![Tree_Package](https://github-readme-stats.vercel.app/api/pin/?username=ldelpino&repo=Tree_Package)](https://github.com/anuraghazra/github-readme-stats)</p>
+    <p>[![Graph](https://github-readme-stats.vercel.app/api/pin/?username=ldelpino&repo=Graph)](https://github.com/anuraghazra/github-readme-stats)</p>
   </p>
 </p>
 
@@ -122,15 +123,6 @@ develop incredible projects with ❤️ meeting incredible people on the way.�
 <p align="left">
   <a href="https://github.com/ldelpino?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-
-<!-- last activity section -->
-
-## Activity Graph
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
-</p>
-
-<br>
 
 <!-- last refresh of readme section -->
 

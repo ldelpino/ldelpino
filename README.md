@@ -1,4 +1,4 @@
-<a href="https://github.com/ldelpino"><img alt="Image Presentation" title="Image Presentation" src="./assets/presentation.png" height="256"></a>
+<a href="https://github.com/ldelpino"><img alt="Image Presentation" title="Image Presentation" src="./assets/presentation.png" width="512" height="256"></a>
 
 <hr>
 
@@ -107,7 +107,7 @@ develop incredible projects with ❤️ meeting incredible people on the way.�
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <p style="widht: 100%;" align="center">
-    <p>[DateUtils](https://github-readme-stats.vercel.app/api/pin/?username=ldelpino&repo=DateUtils)]</p>
+    <p>[DateUtils](https://github-readme-stats.vercel.app/api/pin/?username=ldelpino&repo=DateUtils)</p>
     <p>[![BuilderLibrary](https://github-readme-stats.vercel.app/api/pin/?username=ldelpino&repo=BuilderLibrary)](https://github.com/anuraghazra/github-readme-stats)</p>
   </p>
   <p align="center">&#8192;</p>

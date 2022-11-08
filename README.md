@@ -107,7 +107,7 @@ develop incredible projects with ❤️ meeting incredible people on the way.�
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <p style="widht: 100%;" align="center">
-    <p>[![DateUtils](https://github-readme-stats.vercel.app/api/pin/?username=ldelpino&repo=DateUtils)](https://github.com/anuraghazra/github-readme-stats)</p>
+    <p>[DateUtils](https://github-readme-stats.vercel.app/api/pin/?username=ldelpino&repo=DateUtils)]</p>
     <p>[![BuilderLibrary](https://github-readme-stats.vercel.app/api/pin/?username=ldelpino&repo=BuilderLibrary)](https://github.com/anuraghazra/github-readme-stats)</p>
   </p>
   <p align="center">&#8192;</p>

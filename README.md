@@ -5,19 +5,14 @@
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
-Hi!!! <br />
-I'm <b>Lázaro del Pino</b>, my Github profile, it's ldelpino 🕵🏼‍♂️, <br />
-I have <strong>25</strong> years old, I'm from Cuba. <br />
-Study Computer Engineering at the Technological University of Havana "CUJAE", <br />
-in which I am studying for the penultimate year of the race. <br />
-<br />
-I love computing, my dream is to dedicate myself to developing software as my own business, <br />
-create my own development team and become a full-time software developer. <br />
-<br />
-I like programming, software engineering, architecture and business modeling. <br />
-I'm a guy who love develop new things 🖥️ <br />
-So... I am more than a robot coding 🤖, I am a real human trying to learn new things and <br />
-develop incredible projects with ❤️ meeting incredible people on the way.🚀<br />
+Hello there!<br />
+ 👋 My name is <b>Lázaro</b>, you can find me on GitHub as ldelpino 🕵🏼‍♂️.<br /> I'm 27 years old and I come from the beautiful Cuba.<br />
+
+I have a background in computer science, having graduated as a technician in informatics. Currently, I am in my final year of studying computer engineering at the Technological University of Havana "CUJAE".<br />
+
+Computing has always been my passion, and my ultimate goal is to pursue a career in software development. I aspire to establish my own software development business and build a dedicated team of professionals. I want to immerse myself in creating cutting-edge software full-time.<br />
+
+Programming, software engineering, architectural design, and business modeling are some of the areas I find fascinating. I am not just a robot coding 🤖; I am a real human who is constantly learning and striving to develop remarkable projects with ❤️. Along this journey, I look forward to meeting incredible peoples and growing together.<br />🚀
 
 ### 🧐 More About Me:
 <table style="border: none;">
@@ -31,7 +26,7 @@ develop incredible projects with ❤️ meeting incredible people on the way.�
           🤝 I’m looking to participate in open source projects.
         </li>
         <li>
-          🌱 I’m currently learning to develop GitHub Actions...
+          🌱 I’m currently learning AI
         </li>
         <li>
           👨🏻‍💻 Most of my projects are available on [Github](https://github.com/ldelpino?tab=repositories)
@@ -64,17 +59,18 @@ develop incredible projects with ❤️ meeting incredible people on the way.�
 
 <h1 align="center"> Languages/Frameworks I'm know the basics: </h1>
 <p align="center">
-  <code><a href="https://assemblerinstitute.com/"><img alt="Ensamblador" title="Ensamblador" src="./assets/ensamblador.png" height="42"></a></code>
+  <code><a href="https://assemblerinstitute.com/"><img alt="Assembler" title="Assembler" src="./assets/ensamblador.png" height="42"></a></code>
   <code><a href="https://www.php.net/"><img alt="PHP" title="PHP" src="./assets/php.png" height="42"></a></code>
   <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
   <code><a href="https://www.r-project.org/"><img alt="R" title="R" src="./assets/Rlogo.png" height="42"></a></code>
 </p>
 <br>
 
-<h1 align="center"> Languages/Frameworks I'm learning: </h1>
+<h1 align="center"> Languages/Frameworks/Tools I'm learning: </h1>
 <p align="center">
   <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
   <code><a href="https://wordpress.com/es/?aff=27964"><img alt="Wordpress" title="Wordpress" src="./assets/wordpress.png" height="42"></a></code>
+<!-- add python -->
 </p>
 <br>
 
